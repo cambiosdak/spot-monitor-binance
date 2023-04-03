@@ -12,7 +12,7 @@ const localSession = new LocalSession({
       deserialize: (str) => JSON.parse(str),
     },
   })  
-const bot = new Telegraf('YOUR_TOKEN_HERE')
+const bot = new Telegraf('YOUR_KEY_HERE')
 bot.use(localSession.middleware())
 
 bot.start( (ctx) =>{
