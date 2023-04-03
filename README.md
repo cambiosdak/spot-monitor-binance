@@ -11,3 +11,6 @@ This project will listen new orders and send the information to the bot:
 - Executed quantity
 - Size of the order
 - Calculate PnL once a day.
+- Bot will answer to the message of the order that was open once the order close, it will recover report the PnL and additional information
+
+![Example:](https://github.com/cambiosdak/spot-monitor-binance/blob/master/example/image.png)
