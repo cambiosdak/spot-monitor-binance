@@ -1,6 +1,6 @@
 # Spot orders monitor for Binance
 # About
-This is a Telegram bot developed to monitor new trades and once those trades are closed, reply to the message in order to retrieve the information required (PnL, fees, price, trade direction)
+This is a Telegram bot was developed to monitor new trades and once those trades are closed, reply to the message in order to retrieve the information required (PnL, fees, price, trade direction)
 It was connected via Telegram API for BOTS and Binance API.
 # Installation:
 - Place your own Telegram Bot API TOKEN provided by @BotFather on the the line 15 of the code.
