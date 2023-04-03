@@ -1,7 +1,7 @@
 # Spot orders monitor for Binance
 # Installation:
 - Place your own Telegram Bot API TOKEN provided by @BotFather on the the line 15 of the code.
-- Install the following libraries via npm:
+- Install npm:
 ```npm i @binance/connector```
 ```npm i telegraf```
 ```npm i telegraf-session-local```
